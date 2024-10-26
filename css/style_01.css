@@ -1,0 +1,36 @@
+/*https://colorscheme.ru/#0212p--9Bg0g0*/
+
+@font-face {
+            font-family: Bebas;
+            src: url("fonts/BebasNeue-Regular.ttf");
+        }
+
+.background {
+    background-image: url("../images/tumblr_bfdb2e75c8df36dcc9cb424afb3829a2_a76a693c_540-ezgif.com-resize.gif");
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+h1 {
+    color :#79140F;
+    font-size: 200px;
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: Bebas;
+}
+
+h2 {
+    color:#79140F;
+    font-size: 40px;
+    font-family: Bebas;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    background-color: #3F0300;
+}
